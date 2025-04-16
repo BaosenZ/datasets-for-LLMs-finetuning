@@ -2,4 +2,5 @@ Original data source: Lomeli, E.G., Ransom, B., Ramdas, A., Jost, D., Moritz, B.
 
 The dataset is for GRPO reward function to calculate reward
 - `train_compo.csv`
-- `eval_compo.csv`
+- `val_compo.csv`
+- `text_compo.csv` is for last eval
